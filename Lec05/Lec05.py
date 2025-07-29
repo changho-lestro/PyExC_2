@@ -12,7 +12,7 @@ linspace_a = np.linspace(0,2*np.pi,4)
 
 zero_mat=np.zeros((2,3))
 np.ones((2,3))
-np.diag([1,1,1])
+np.diag([1,1,1]).
 
 np.random.random((2,3))
 
