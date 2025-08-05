@@ -1,4 +1,5 @@
 import sys
+import requests
 sys.path.append("./lec07")
 
 from PyQt6.QtWidgets import QApplication, QDialog
