@@ -1,0 +1,196 @@
+name,population,area,continent,languages
+Moldova,2617820,33846.0,Europe,Romanian
+Comoros,869595,1862.0,Africa,"Arabic, French, Comorian"
+Malaysia,32365998,330803.0,Asia,"English, Malay"
+Algeria,44700000,2381741.0,Africa,Arabic
+Slovenia,2100126,20273.0,Europe,Slovene
+Guyana,786559,214969.0,South America,English
+France,67391582,551695.0,Europe,French
+Denmark,5831404,43094.0,Europe,Danish
+Kazakhstan,18754440,2724900.0,Asia,"Kazakh, Russian"
+Vanuatu,307150,12189.0,Oceania,"Bislama, English, French"
+Ukraine,44134693,603500.0,Europe,Ukrainian
+Liechtenstein,38137,160.0,Europe,German
+Austria,8917205,83871.0,Europe,German
+Kuwait,4270563,17818.0,Asia,Arabic
+Andorra,77265,468.0,Europe,Catalan
+Botswana,2351625,582000.0,Africa,"English, Tswana"
+United Arab Emirates,9890400,83600.0,Asia,Arabic
+Cameroon,26545864,475442.0,Africa,"English, French"
+Russia,144104080,17098242.0,Europe,Russian
+Jamaica,2961161,10991.0,North America,"English, Jamaican Patois"
+Djibouti,988002,23200.0,Africa,"Arabic, French"
+Kenya,53771300,580367.0,Africa,"English, Swahili"
+Belize,397621,22966.0,North America,"Belizean Creole, English, Spanish"
+Myanmar,54409794,676578.0,Asia,Burmese
+Singapore,5685807,710.0,Asia,"English, Chinese, Malay, Tamil"
+Slovakia,5458827,49037.0,Europe,Slovak
+Iceland,366425,103000.0,Europe,Icelandic
+Bhutan,771612,38394.0,Asia,Dzongkha
+North Macedonia,2077132,25713.0,Europe,Macedonian
+Guinea,13132792,245857.0,Africa,French
+Malta,525285,316.0,Europe,"English, Maltese"
+Afghanistan,40218234,652230.0,Asia,"Dari, Pashto, Turkmen"
+United States,329484123,9372610.0,North America,English
+Suriname,586634,163820.0,South America,Dutch
+Vatican City,451,0.44,Europe,"Italian, Latin"
+Papua New Guinea,8947027,462840.0,Oceania,"English, Hiri Motu, Tok Pisin"
+Malawi,19129955,118484.0,Africa,"English, Chewa"
+Hungary,9749763,93028.0,Europe,Hungarian
+Cambodia,16718971,181035.0,Asia,Khmer
+Ecuador,17643060,276841.0,South America,Spanish
+Canada,38005238,9984670.0,North America,"English, French"
+Norway,5379475,323802.0,Europe,"Norwegian Nynorsk, Norwegian Bokmål, Sami"
+Mali,20250834,1240192.0,Africa,French
+Samoa,198410,2842.0,Oceania,"English, Samoan"
+Fiji,896444,18272.0,Oceania,"English, Fijian, Fiji Hindi"
+Colombia,50882884,1141748.0,South America,Spanish
+Cuba,11326616,109884.0,North America,Spanish
+Thailand,69799978,513120.0,Asia,Thai
+Mongolia,3278292,1564110.0,Asia,Mongolian
+Guinea-Bissau,1967998,36125.0,Africa,"Portuguese, Upper Guinea Creole"
+Argentina,45376763,2780400.0,South America,"Guaraní, Spanish"
+Mexico,128932753,1964375.0,North America,Spanish
+Turkmenistan,6031187,488100.0,Asia,"Russian, Turkmen"
+Ethiopia,114963583,1104300.0,Africa,Amharic
+Gabon,2225728,267668.0,Africa,French
+South Korea,51780579,100210.0,Asia,Korean
+Togo,8278737,56785.0,Africa,French
+Ghana,31072945,238533.0,Africa,English
+Zambia,18383956,752612.0,Africa,English
+New Zealand,5084300,270467.0,Oceania,"English, Māori, New Zealand Sign Language"
+Laos,7275556,236800.0,Asia,Lao
+Burundi,11890781,27834.0,Africa,"French, Kirundi"
+Pakistan,220892331,881912.0,Asia,"English, Urdu"
+Armenia,2963234,29743.0,Asia,Armenian
+Czechia,10698896,78865.0,Europe,"Czech, Slovak"
+San Marino,33938,61.0,Europe,Italian
+São Tomé and Príncipe,219161,964.0,Africa,Portuguese
+Bahamas,393248,13943.0,North America,English
+Finland,5530719,338424.0,Europe,"Finnish, Swedish"
+Guatemala,16858333,108889.0,North America,Spanish
+Sierra Leone,7976985,71740.0,Africa,English
+Luxembourg,632275,2586.0,Europe,"German, French, Luxembourgish"
+Tuvalu,11792,26.0,Oceania,"English, Tuvaluan"
+Eritrea,5352000,117600.0,Africa,"Arabic, English, Tigrinya"
+Honduras,9904608,112492.0,North America,Spanish
+Senegal,16743930,196722.0,Africa,French
+Nepal,29136808,147181.0,Asia,Nepali
+Antigua and Barbuda,97928,442.0,North America,English
+Cape Verde,555988,4033.0,Africa,Portuguese
+Bangladesh,164689383,147570.0,Asia,Bengali
+Kyrgyzstan,6591600,199951.0,Asia,"Kyrgyz, Russian"
+Nigeria,206139587,923768.0,Africa,English
+Spain,47351567,505992.0,Europe,"Spanish, Catalan, Basque, Galician"
+Marshall Islands,59194,181.0,Oceania,"English, Marshallese"
+Qatar,2881060,11586.0,Asia,Arabic
+Venezuela,28435943,916445.0,South America,Spanish
+Tunisia,11818618,163610.0,Africa,Arabic
+Monaco,39244,2.02,Europe,French
+Central African Republic,4829764,622984.0,Africa,"French, Sango"
+Latvia,1901548,64559.0,Europe,Latvian
+Uzbekistan,34232050,447400.0,Asia,"Russian, Uzbek"
+Brazil,212559409,8515767.0,South America,Portuguese
+Cyprus,1207361,9251.0,Europe,"Greek, Turkish"
+North Korea,25778815,120538.0,Asia,Korean
+Dominica,71991,751.0,North America,English
+Bosnia and Herzegovina,3280815,51209.0,Europe,"Bosnian, Croatian, Serbian"
+Sri Lanka,21919000,65610.0,Asia,"Sinhala, Tamil"
+Republic of the Congo,5657000,342000.0,Africa,"French, Kikongo, Lingala"
+Israel,9216900,20770.0,Asia,"Arabic, Hebrew"
+Namibia,2540916,825615.0,Africa,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana"
+Micronesia,115021,702.0,Oceania,English
+South Sudan,11193729,619745.0,Africa,English
+Rwanda,12952209,26338.0,Africa,"English, French, Kinyarwanda"
+Uganda,45741000,241550.0,Africa,"English, Swahili"
+Portugal,10305564,92090.0,Europe,Portuguese
+Bolivia,11673029,1098581.0,South America,"Aymara, Guaraní, Quechua, Spanish"
+Lesotho,2142252,30355.0,Africa,"English, Sotho"
+Chad,16425859,1284000.0,Africa,"Arabic, French"
+Lithuania,2794700,65300.0,Europe,Lithuanian
+Montenegro,621718,13812.0,Europe,Montenegrin
+Oman,5106622,309500.0,Asia,Arabic
+Sudan,43849269,1886068.0,Africa,"Arabic, English"
+Brunei,437483,5765.0,Asia,Malay
+DR Congo,108407721,2344858.0,Africa,"French, Kikongo, Lingala, Tshiluba, Swahili"
+Greece,10715549,131990.0,Europe,Greek
+Albania,2837743,28748.0,Europe,Albanian
+Tanzania,59734213,945087.0,Africa,"English, Swahili"
+Georgia,3714000,69700.0,Asia,Georgian
+Japan,125836021,377930.0,Asia,Japanese
+Saudi Arabia,34813867,2149690.0,Asia,Arabic
+Croatia,4047200,56594.0,Europe,Croatian
+Solomon Islands,686878,28896.0,Oceania,English
+Yemen,29825968,527968.0,Asia,Arabic
+Somalia,15893219,637657.0,Africa,"Arabic, Somali"
+Grenada,112519,344.0,North America,English
+Tonga,105697,747.0,Oceania,"English, Tongan"
+Nicaragua,6624554,130373.0,North America,Spanish
+Paraguay,7132530,406752.0,South America,"Guaraní, Spanish"
+India,1380004385,3287590.0,Asia,"English, Hindi, Tamil"
+United Kingdom,67215293,242900.0,Europe,English
+Eswatini,1160164,17364.0,Africa,"English, Swazi"
+Madagascar,27691019,587041.0,Africa,"French, Malagasy"
+Equatorial Guinea,1402985,28051.0,Africa,"French, Portuguese, Spanish"
+Jordan,10203140,89342.0,Asia,Arabic
+Belarus,9398861,207600.0,Europe,"Belarusian, Russian"
+Maldives,540542,300.0,Asia,Maldivian
+Timor-Leste,1318442,14874.0,Oceania,"Portuguese, Tetum"
+Serbia,6908224,88361.0,Europe,Serbian
+Ireland,4994724,70273.0,Europe,"English, Irish"
+Chile,19116209,756102.0,South America,Spanish
+Iraq,40222503,438317.0,Asia,"Arabic, Aramaic, Sorani"
+Philippines,109581085,342353.0,Asia,"English, Filipino"
+South Africa,59308690,1221037.0,Africa,"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu"
+Benin,12123198,112622.0,Africa,French
+Bulgaria,6927288,110879.0,Europe,Bulgarian
+Indonesia,273523621,1904569.0,Asia,Indonesian
+Mauritania,4649660,1030700.0,Africa,Arabic
+Seychelles,98462,452.0,Africa,"Seychellois Creole, English, French"
+Romania,19286123,238391.0,Europe,Romanian
+Turkey,84339067,783562.0,Europe,Turkish
+Burkina Faso,20903278,272967.0,Africa,French
+Egypt,102334403,1002450.0,Africa,Arabic
+Vietnam,97338583,331212.0,Asia,Vietnamese
+Trinidad and Tobago,1399491,5130.0,North America,English
+Angola,32866268,1246700.0,Africa,Portuguese
+China,1402112000,9706961.0,Asia,Chinese
+Costa Rica,5094114,51100.0,North America,Spanish
+Uruguay,3473727,181034.0,South America,Spanish
+Morocco,36910558,446550.0,Africa,"Arabic, Berber"
+Estonia,1331057,45227.0,Europe,Estonian
+Saint Lucia,183629,616.0,North America,English
+Haiti,11402533,27750.0,North America,"French, Haitian Creole"
+Tajikistan,9537642,143100.0,Asia,"Russian, Tajik"
+Niger,24206636,1267000.0,Africa,French
+Lebanon,6825442,10452.0,Asia,"Arabic, French"
+Australia,25687041,7692024.0,Oceania,English
+Liberia,5057677,111369.0,Africa,English
+Italy,59554023,301336.0,Europe,"Italian, Catalan"
+Nauru,10834,21.0,Oceania,"English, Nauru"
+Switzerland,8654622,41284.0,Europe,"French, Swiss German, Italian, Romansh"
+Peru,32971846,1285216.0,South America,"Aymara, Quechua, Spanish"
+Libya,6871287,1759540.0,Africa,Arabic
+Germany,83240525,357114.0,Europe,German
+Kosovo,1775378,10908.0,Europe,"Albanian, Serbian"
+Bahrain,1701583,765.0,Asia,Arabic
+Iran,83992953,1648195.0,Asia,Persian (Farsi)
+Panama,4314768,75417.0,North America,Spanish
+Syria,17500657,185180.0,Asia,Arabic
+Saint Kitts and Nevis,53192,261.0,North America,English
+Gambia,2416664,10689.0,Africa,English
+Netherlands,16655799,41850.0,Europe,Dutch
+El Salvador,6486201,21041.0,North America,Spanish
+Ivory Coast,26378275,322463.0,Africa,French
+Kiribati,119446,811.0,Oceania,"English, Gilbertese"
+Palau,18092,459.0,Oceania,"English, Palauan"
+Saint Vincent and the Grenadines,110947,389.0,North America,English
+Poland,37950802,312679.0,Europe,Polish
+Barbados,287371,430.0,North America,English
+Zimbabwe,14862927,390757.0,Africa,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language"
+Sweden,10353442,450295.0,Europe,Swedish
+Dominican Republic,10847904,48671.0,North America,Spanish
+Belgium,11555997,30528.0,Europe,"German, French, Dutch"
+Mozambique,31255435,801590.0,Africa,Portuguese
+Mauritius,1265740,2040.0,Africa,"English, French, Mauritian Creole"
+Azerbaijan,10110116,86600.0,Europe,Azerbaijani
